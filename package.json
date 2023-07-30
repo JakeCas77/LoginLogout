@@ -1,0 +1,32 @@
+{
+  "name": "loginlogout",
+  "version": "1.0.0",
+  "description": "login page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeCas77/LoginLogout.git"
+  },
+  "keywords": [
+    "log",
+    "and",
+    "out"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeCas77/LoginLogout/issues"
+  },
+  "homepage": "https://github.com/JakeCas77/LoginLogout#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.0",
+    "express-session": "^1.17.3",
+    "morgan": "^1.10.0"
+  }
+}
